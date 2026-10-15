@@ -1,0 +1,2 @@
+1. The parent class of the Programmer class is Employee and Person.
+2. I would place Intern under Employee because an intern is also an employee and can inherit common attributes and methods from the Employee class.
